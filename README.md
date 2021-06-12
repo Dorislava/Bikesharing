@@ -7,6 +7,10 @@ Evaluate average user data and segregate by user gender
 Citi bike Customers Overview -2,344,224 trips in August ( majority- annual subscrivers)
 User gender: Male(65%) and Female(25%)
 
+
+## Visualizations: 
+[Storyboard](https://public.tableau.com/profile/dorislava.vinkova#!/)
+
 ## Deliverables:
 1.Checkout Times for Users
 Most active time - within the first hour
@@ -32,8 +36,7 @@ The majority of users are males and tend to have longer trip durations.
 This heatmap shows that most users are male subscribers.
 ![name-of-you-image](https://github.com/Dorislava/Bikesharing/blob/main/Resources/Fig.5.JPG)
 
-## Visualizations: 
-[Storyboard](https://public.tableau.com/profile/dorislava.vinkova#!/)
+## Story: 
 
 ![name-of-you-image](https://github.com/Dorislava/Bikesharing/blob/main/Resources/Fig.6.JPG)
 
